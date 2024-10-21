@@ -24,8 +24,4 @@ This project is a JWT Authentication API built using ASP.NET Core and Entity Fra
 - SQL Server
 - Postman or similar tool for testing APIs
 
-### Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
+![image](https://github.com/user-attachments/assets/5d9c2597-288c-4c04-a3fc-8015629b4e09)
